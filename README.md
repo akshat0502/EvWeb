@@ -1,12 +1,12 @@
 <h1>EV Web</h1>
 <p>This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.</p>
 <h2>Steps to Run the React App:</h2>
-<ul>
+<ol>
   <li>
     <b>Install Node.js:</b>
     <p>Ensure you have Node.js installed on your system. Download it from <a href="https://nodejs.org" target="_blank">https://nodejs.org</a>.</p>
   </li>
-</ul>
+</ol>
 
 # React + Vite
 
