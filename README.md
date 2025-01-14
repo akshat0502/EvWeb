@@ -1,4 +1,5 @@
 <h1>EV Web</h1>
+<p>This guide explains how to create and run a React-based frontend for an Electric Vehicle (EV) Website, showcasing photos and videos of electric vehicles.</p>
 
 
 # React + Vite
