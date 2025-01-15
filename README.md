@@ -10,6 +10,9 @@
     <b>Navigate to the Project Directory:</b>
     <pre><code>cd electric-vehicle-website</code></pre>
   </li>
+  <li>
+    <b>Build the EV Website:</b>
+  </li>
 </ol>
 
 # React + Vite
