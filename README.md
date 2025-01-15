@@ -8,6 +8,7 @@
   </li>
   <li>
     <b>Navigate to the Project Directory:</b>
+    <pre><code>cd electric-vehicle-website</code></pre>
   </li>
 </ol>
 
