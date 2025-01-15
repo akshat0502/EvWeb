@@ -14,8 +14,12 @@
     <b>Build the EV Website:</b>
     <p>Customize the app by editing files in the <code>src</code> folder. You can create components for:</p>
     <ul>
-        <li>Homepage with a hero section featuring videos of EVs</li>
-        <li>Photo Gallery showcasing different EV models</li>
+      <li>Homepage with a hero section featuring videos of EVs</li>
+      <li>Photo Gallery showcasing different EV models</li>
+      <li>About Us section describing the company</li>
+      <li>Features and Benefits of EVs</li>
+      <li>Contact Form for inquiries</li>
+    </ul>
   </li>
 </ol>
 
