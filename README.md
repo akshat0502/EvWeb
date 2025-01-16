@@ -21,6 +21,10 @@
       <li>Contact Form for inquiries</li>
     </ul>
   </li>
+  <li>
+    <b>Integrate Photos and Videos:</b>
+    <p>Use <code>img</code> tags or video components to embed media.</p>
+  </li>
 </ol>
 
 # React + Vite
