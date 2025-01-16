@@ -24,6 +24,9 @@
   <li>
     <b>Integrate Photos and Videos:</b>
     <p>Use <code>img</code> tags or video components to embed media.</p>
+    <pre><code>
+      <img src="/path-to-image.jpg" alt="Electric Vehicle" />
+    </code></pre>
   </li>
 </ol>
 
