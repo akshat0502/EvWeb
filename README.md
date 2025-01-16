@@ -26,6 +26,10 @@
     <p>Use <code>img</code> tags or video components to embed media.</p>
     <pre><code>
       <img src="/path-to-image.jpg" alt="Electric Vehicle" />
+      <video controls>
+        <source src="/path-to-video.mp4" type="video/mp4" />
+        Your browser does not support the video tag.
+      </video>
     </code></pre>
   </li>
 </ol>
