@@ -35,6 +35,9 @@
   <li>
     <b>Connect to a Backend (Optional):</b>
     <p>If you need dynamic content (e.g., new models or media), integrate a backend API.</p>
+    <pre><code>fetch('https://api.example.com/ev-models')
+  .then(response => response.json())
+  .then(data => console.log(data));</code></pre>
   </li>
 </ol>
 
