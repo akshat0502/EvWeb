@@ -32,6 +32,10 @@
       </video>
     </code></pre>
   </li>
+  <li>
+    <b>Connect to a Backend (Optional):</b>
+    <p>If you need dynamic content (e.g., new models or media), integrate a backend API.</p>
+  </li>
 </ol>
 
 # React + Vite
