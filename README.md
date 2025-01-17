@@ -39,6 +39,10 @@
   .then(response => response.json())
   .then(data => console.log(data));</code></pre>
   </li>
+  <li>
+    <b>Build for Production:</b>
+    <p>When your app is ready for deployment, run:</p>
+  </li>
 </ol>
 
 # React + Vite
