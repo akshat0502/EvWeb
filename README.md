@@ -47,6 +47,16 @@
   </li>
 </ol>
 <h2>Folder Structure:</h2>
+<pre><code>
+  electric-vehicle-website/
+├── public/       // Static files (e.g., index.html, images, videos)
+├── src/          // React components, styles, and logic
+│   ├── components/  // Reusable UI components
+│   ├── pages/        // Pages like Home, Gallery, About, Contact
+│   ├── App.js        // Main app component
+│   ├── index.js      // Entry point
+├── package.json  // Project dependencies and scripts
+</code></pre>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
