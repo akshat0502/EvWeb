@@ -57,6 +57,7 @@
 │   ├── index.js      // Entry point
 ├── package.json  // Project dependencies and scripts
 </code></pre>
+<h2>Tips:</h2>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
