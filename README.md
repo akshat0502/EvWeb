@@ -59,7 +59,8 @@
 </code></pre>
 <h2>Tips:</h2>
 <ul>
-    <li>Use a carousel library like <a href="https://react-slick.neostack.com/" target="_blank">React Slick</a> for photo and video sliders.</li>
+  <li>Use a carousel library like <a href="https://react-slick.neostack.com/" target="_blank">React Slick</a> for photo and video sliders.</li>
+  <li>Optimize media for web to ensure fast load times.</li>
 </ul>
 # React + Vite
 
