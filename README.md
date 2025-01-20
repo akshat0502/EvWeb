@@ -61,6 +61,7 @@
 <ul>
   <li>Use a carousel library like <a href="https://react-slick.neostack.com/" target="_blank">React Slick</a> for photo and video sliders.</li>
   <li>Optimize media for web to ensure fast load times.</li>
+  <li>Add animations using libraries like <a href="https://www.framer.com/motion/" target="_blank">Framer Motion</a> to enhance user experience.</li>
 </ul>
 # React + Vite
 
