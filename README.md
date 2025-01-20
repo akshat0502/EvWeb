@@ -58,6 +58,9 @@
 ├── package.json  // Project dependencies and scripts
 </code></pre>
 <h2>Tips:</h2>
+<ul>
+    <li>Use a carousel library like <a href="https://react-slick.neostack.com/" target="_blank">React Slick</a> for photo and video sliders.</li>
+</ul>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
