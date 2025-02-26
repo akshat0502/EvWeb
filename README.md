@@ -25,7 +25,7 @@
     <b>Integrate Photos and Videos:</b>
     <p>Use <code>img</code> tags or video components to embed media.</p>
     <pre><code>
-      <img src="/path-to-image.jpg" alt="Electric Vehicle" />
+      <img src="src/assets/image1.png" alt="Electric Vehicle" />
       <video controls>
         <source src="/path-to-video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
